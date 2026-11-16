@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-7cnGaRvPvR)
-- Live Site URL: [Live Site](https://nikita-cheropkin.github.io/FrontendManorProject-4/qr-code-component/index.html)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/browser-extension-manager-ui-3i0O_fOZKN)
+- Live Site URL: [Live Site](https://nikita-cheropkin.github.io/FrontendMentorProject-16/browser-extension-manager-ui/site25.html)
 
 ## My process
 
